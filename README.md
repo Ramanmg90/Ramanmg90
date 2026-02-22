@@ -33,5 +33,6 @@ Real-time weather display using OpenWeather API.
 
 ## 📫 Contact Me
 
-- Email: your-email@gmail.com
-- Telegram: @yourid
+- Email: raman.moghadam90@gmail.com
+- Telegram: @raman_mg90
+- 
