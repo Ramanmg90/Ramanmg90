@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Raman
 
-<!--
-**Ramanmg90/Ramanmg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer  
+🔌 IoT & Smart Home Enthusiast  
+🤖 AI Projects Builder  
+🎯 Khwarizmi Festival Participant  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Python
+- Django
+- IoT (NodeMCU, Arduino)
+- NRF24L01
+- SIM800L
+- Web Development
+
+---
+
+## 🔥 Featured Projects
+
+### 🏠 Smart Home System
+IoT-based smart system with SMS alerts and web control.
+
+### 🖐 Persian Sign Language Recognition
+AI-based hand gesture recognition using webcam.
+
+### 🌡 Weather OLED IoT Device
+Real-time weather display using OpenWeather API.
+
+---
+
+## 📫 Contact Me
+
+- Email: your-email@gmail.com
+- Telegram: @yourid
